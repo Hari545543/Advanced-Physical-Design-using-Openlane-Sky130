@@ -29,13 +29,13 @@ run_synthesis
 <img width="436" alt="no5" src="https://user-images.githubusercontent.com/98028428/183568676-6a63ed4b-3142-4314-b9f2-181c95fcbfa4.PNG">
 <img width="528" alt="no6" src="https://user-images.githubusercontent.com/98028428/183568695-bdf8bdf9-41ed-4fff-8362-87a2443f0fb8.PNG">
 
-### Number of cells - 14876
-### Total Number of flops - 1613
-### Flop count = Total Number of flops/ Number of cells = 0.1084
-### 10.84% of flops used .
-### Buffer count - 1656
-### Buffer count = No. of buffer/Number of cell = 0.1113
-### 11.13 % buffer used.
+#### Number of cells - 14876
+#### Total Number of flops - 1613
+#### Flop count = Total Number of flops/ Number of cells = 0.1084
+#### 10.84% of flops used .
+#### Buffer count - 1656
+#### Buffer count = No. of buffer/Number of cells = 0.1113
+#### 11.13 % buffer used.
 
 # Day-2 Floorplan
  ## Chip Floorplanning
