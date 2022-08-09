@@ -9,7 +9,7 @@ A 5 day-workshop where I learned about open source flow named openlane which spe
 
 
 ```bash
-$docker
+docker
 ```  
 After docker command
 ```bask
