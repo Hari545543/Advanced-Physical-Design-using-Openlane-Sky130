@@ -29,4 +29,4 @@ run_synthesis
 <img width="436" alt="no5" src="https://user-images.githubusercontent.com/98028428/183568676-6a63ed4b-3142-4314-b9f2-181c95fcbfa4.PNG">
 <img width="528" alt="no6" src="https://user-images.githubusercontent.com/98028428/183568695-bdf8bdf9-41ed-4fff-8362-87a2443f0fb8.PNG">
 
-[Synthesis](#https://github.com/INPLHA/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/README.md)
+[Synthesis](Synthesis)
